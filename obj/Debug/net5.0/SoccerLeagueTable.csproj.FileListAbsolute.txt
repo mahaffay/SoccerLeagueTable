@@ -1,0 +1,15 @@
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.exe
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.deps.json
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.runtimeconfig.json
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.runtimeconfig.dev.json
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.dll
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\ref\SoccerLeagueTable.dll
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\bin\Debug\net5.0\SoccerLeagueTable.pdb
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.AssemblyInfoInputs.cache
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.AssemblyInfo.cs
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.csproj.CoreCompileInputs.cache
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.dll
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\ref\SoccerLeagueTable.dll
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.pdb
+C:\Users\Justin.Mahaffay\source\repos\SoccerLeagueTable\SoccerLeagueTable\obj\Debug\net5.0\SoccerLeagueTable.genruntimeconfig.cache
